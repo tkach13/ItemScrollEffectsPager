@@ -1,7 +1,7 @@
 # ItemScrollEffectsPager
 
 This repo demonstrates how can you create coube out transformers for accompanist pager 
-Result looks like this 
 
-# Result
+Result:
+
 ![](https://github.com/tkach13/ItemScrollEffectsPager/blob/development/final-result.gif)
